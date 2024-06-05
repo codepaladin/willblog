@@ -1,5 +1,7 @@
-+++
-title = 'My First Post'
-date = 2024-06-01T19:15:46-04:00
-draft = false
-+++
+---
+layout: blog
+title: let's try another test
+date: 2024-06-05T10:14:00.000Z
+tags: tag
+---
+this is the body
