@@ -1,3 +1,3 @@
 ---
-featured_image: '/images/uploads/img_0225.jpeg'
+featured_image: '/images/uploads/img_1063.jpeg'
 ---
