@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lilly Tag on Lilly Campbell</title>
+    <link>//localhost:1313/tags/lilly-tag/</link>
+    <description>Recent content in Lilly Tag on Lilly Campbell</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2024 15:26:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/lilly-tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>another post here</title>
+      <link>//localhost:1313/posts/2024-06-05-another-post-here/</link>
+      <pubDate>Wed, 05 Jun 2024 15:26:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-05-another-post-here/</guid>
+      <description>this is the body of this post</description>
+    </item>
+  </channel>
+</rss>

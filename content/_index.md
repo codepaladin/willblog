@@ -1,3 +1,3 @@
 ---
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/uploads/img_0225.jpeg'
 ---

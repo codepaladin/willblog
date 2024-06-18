@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jokes, Joke on Lilly Campbell</title>
+    <link>//localhost:1313/tags/jokes-joke/</link>
+    <description>Recent content in Jokes, Joke on Lilly Campbell</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2024 17:35:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/jokes-joke/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Elemelons</title>
+      <link>//localhost:1313/posts/2024-06-05-the-elemelons/</link>
+      <pubDate>Wed, 05 Jun 2024 17:35:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-05-the-elemelons/</guid>
+      <description>If there is a water melon, shouldn&amp;rsquo;t there be an earth melon? A fire melon? An air melon? THE ELEMELONS!!!</description>
+    </item>
+  </channel>
+</rss>

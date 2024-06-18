@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Will Campbell</title>
+    <title>Posts on Lilly Campbell</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Will Campbell</description>
+    <description>Recent content in Posts on Lilly Campbell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2024 10:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 11:58:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>let&#39;s try another test</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 05 Jun 2024 10:14:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>this is the body</description>
+      <title>Swimming Camp 2</title>
+      <link>//localhost:1313/posts/2024-06-18-swimming-camp-2/</link>
+      <pubDate>Tue, 18 Jun 2024 11:58:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-18-swimming-camp-2/</guid>
+      <description>All right, camp wasn’t actually that bad. I made a friend, but nobody I knew was there. My new friend is called Jordan. On the diving boards at the pool, we see if we can touch the bottom of the pool! It is super fun, I’m always so close to touching the bottom! I haven’t done it yet, but I have a whole week, don’t I? At camp, we have a choice between playing with the inner tubes, or the diving boards.</description>
+    </item>
+    <item>
+      <title>Swimming Camp</title>
+      <link>//localhost:1313/posts/2024-06-18-swimming-camp/</link>
+      <pubDate>Tue, 18 Jun 2024 11:57:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-18-swimming-camp/</guid>
+      <description>OMG, camp is starting tomorrow and I am so excited! It is a new camp that I have never been to! My parents say that it is a swimming camp. I’ve never really been to an all swimming camp, so this is gonna be fun. Whenever my best friend comes over, we always swim together! So this is going to be a fun time, even though she’s not gonna be there.</description>
+    </item>
+    <item>
+      <title>Rock Climbing Camp</title>
+      <link>//localhost:1313/posts/2024-06-18-rock-climbing-camp/</link>
+      <pubDate>Tue, 18 Jun 2024 11:55:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-18-rock-climbing-camp/</guid>
+      <description>FINALLY!!! I’m going to rock climbing camp and I just can’t do two of the walls, which are the hardest. when I started to lose, hope someone offered to show me what to do. I was super excited!&#xA;They did it a different way than what I would do&#xA;And finally, I was able to do one of the hardest walls on the Rockwall!</description>
+    </item>
+    <item>
+      <title>The Elemelons</title>
+      <link>//localhost:1313/posts/2024-06-05-the-elemelons/</link>
+      <pubDate>Wed, 05 Jun 2024 17:35:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2024-06-05-the-elemelons/</guid>
+      <description>If there is a water melon, shouldn&amp;rsquo;t there be an earth melon? A fire melon? An air melon? THE ELEMELONS!!!</description>
     </item>
   </channel>
 </rss>
